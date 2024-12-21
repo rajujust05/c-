@@ -1,0 +1,14 @@
+# include <iostream >
+using namespace std;
+int main()
+{
+  int p;
+  float x;
+  double a;
+
+  cout<<" Size of integer="<<sizeof (p)*8<<"bit"<<endl;
+  cout<<" Size of integer="<<sizeof (x)*8<<"bit"<<endl;
+  cout<<" Size of integer="<<sizeof (a)*8<<"bit"<<endl;
+
+}
+
